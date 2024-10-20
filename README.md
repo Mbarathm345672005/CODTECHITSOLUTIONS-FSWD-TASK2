@@ -1,5 +1,9 @@
 ![Screenshot 2024-10-20 182446](https://github.com/user-attachments/assets/4e2b6433-f550-4c38-a2e1-f7b057132d37)
 
+![Screenshot 2024-10-20 184632](https://github.com/user-attachments/assets/370df644-047f-44b8-a960-b85bfd582314)
+![Screenshot 2024-10-20 184613](https://github.com/user-attachments/assets/874c10dc-e536-4db9-978f-e6c122be5f08)
+![Screenshot 2024-10-20 184544](https://github.com/user-attachments/assets/91db773d-68f6-433c-afc3-1e5626dc3496)
+
 
 Barath Chat Application
 A simple real-time chat application built using HTML, CSS, JavaScript, Node.js, and Socket.IO. This chat room allows multiple users to communicate in real-time with an interactive user interface.
