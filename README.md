@@ -47,7 +47,7 @@ bash
 Copy code
 node index.js
 Access the Chat Application:
-Open your browser and go to http://localhost:3000.
+Open your browser and go to http://localhost:5000.
 
 Usage
 Enter your name and message in the input fields and click "Send Message."
